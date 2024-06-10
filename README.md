@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CovertSheeke
 - 👀 I’m interested in Astrophysics, NLP, Neuroscience, and Computer vision
 - 🌱 I’m currently learning tensorflow and illustris packages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on card game AI
 - 📫 How to reach me ...
 
 <!---
